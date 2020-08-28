@@ -33,7 +33,9 @@ Linear Regression Modeling
 
 ![Test Image 3](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/Screen%20Shot%202020-08-28%20at%201.25.16%20PM.png)
 
-![Test Image 4]()
+![Test Image 4](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/5%20days%20return.png)
+
+![Test Image 5]()
 
 1.
 2.
