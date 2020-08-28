@@ -27,7 +27,7 @@ Linear Regression Modeling
 
 ## Conclusion
 
-![Test Image 1](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/Screen%20Shot%202020-08-28%20at%201.21.04%20PM.png, width="256" height="256")
+![Test Image 1](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/Screen%20Shot%202020-08-28%20at%201.21.04%20PM.png)
 
 ![Test Image 2](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/Screen%20Shot%202020-08-28%20at%201.26.34%20PM.png)
 
@@ -39,9 +39,9 @@ Linear Regression Modeling
 
 ![Test Image 6](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/Volatility.png)
 
-1.
-2.
-3.
+Based on the time series analysis, I would not feel confident buying Yen because both the ARIMA model and the ARMA model have a P > 0.05. Therefore they are not significant. However, the GARCH model is significant predicting volatility.This is important when trading derivitives because as per this model it states the volatility will keep increasing in the next 5 days, therefore trading derivitives would be your best option.The GARCH model is also useful to quantify you're maximum loss as you can calculate what you're risk is in purchasing Yen.
+
+I would not feel comfortable using these models to trade. ARMA and ARIMA are not accurate and the other is only slightly useful in a specific kind of investing.
 
 ## Linear Regression Forecasting
 
