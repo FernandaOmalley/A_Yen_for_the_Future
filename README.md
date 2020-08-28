@@ -37,7 +37,7 @@ Linear Regression Modeling
 
 ![Test Image 5](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/GARCH.png)
 
-![Test Image 6]()
+![Test Image 6](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/Volatility.png)
 
 1.
 2.
