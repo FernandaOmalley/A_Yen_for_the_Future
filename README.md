@@ -27,7 +27,7 @@ Linear Regression Modeling
 
 ## Conclusion
 
-![Test Image 1](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/ARMA.png)
+![Test Image 1](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/ARMA.png=)
 
 ![Test Image 2](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/ARIMA.png)
 
