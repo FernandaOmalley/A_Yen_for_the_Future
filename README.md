@@ -27,6 +27,8 @@ Linear Regression Modeling
 
 ## Conclusion
 
+Screen Shot 2020-08-28 at 1.21.04 PM
+
 1.
 2.
 3.
