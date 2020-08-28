@@ -31,7 +31,7 @@ Linear Regression Modeling
 
 ![Test Image 2](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/ARIMA.png)
 
-![Test Image 3](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/SETTLE VS. TREND.png)
+![Test Image 3](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/SETTLE%20VS.%20TREND.png)
 
 ![Test Image 4](https://github.com/natyrrr/A_Yen_For_The_Future/blob/master/5 days return.png)
 
